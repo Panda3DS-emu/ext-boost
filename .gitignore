@@ -4,7 +4,6 @@
 /bjam
 /bjam.exe
 /bootstrap.log
-/boost
 /dist
 /project-config.jam*
 /stage
